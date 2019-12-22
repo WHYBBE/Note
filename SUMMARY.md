@@ -1,7 +1,40 @@
-# Summary
+# Note Contents
 
 * [Introduction](README.md)
-* [Part I](1/README.md)
-    * [GitBook is nice](1/something.md)
-* [Part II](2/README.md)
-	* [111](2/GTD.md)
+
+## About
+
+* [About](About/about.md)
+
+## Reading
+
+* 
+
+## Network Engineering
+
+* 
+
+## Efficient Method
+
+* [GTD](Efficient_Method/GTD/README.md)
+  * [GTD](Efficient_Method/GTD/GTD.md)
+
+## Linux
+
+* 
+
+## C/C++ Language
+
+* 
+
+## Python Wandering
+
+* 
+
+## Life Thinking
+
+* 
+
+## Afterword
+
+* 

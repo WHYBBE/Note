@@ -1,14 +1,14 @@
 {
-    "title": "WHY' Linux Learning Notebook",
+    "title": "WHY' Learning Notebook",
     "author": "Wang",
-    "description": "Study Linux With Me",
+    "description": "Study With Me",
     "language": "zh-hans",
     "structure": {
         "readme": "README.md"
     },
     "links": {
         "sidebar": {
-            "MYBLOG": "https://whynbnb.com"
+            "Lagacy": "https://lagacy.whynbnb.com"
         }
     },
     "theme-default": {
