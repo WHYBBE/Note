@@ -8,11 +8,11 @@
 
 ## Reading
 
-* 
+* Reading
 
 ## Network Engineering
 
-* 
+* NE
 
 ## Efficient Method
 
@@ -21,20 +21,20 @@
 
 ## Linux
 
-* 
+* Linux
 
 ## C/C++ Language
 
-* 
+* C/C++
 
 ## Python Wandering
 
-* 
+* PW
 
 ## Life Thinking
 
-* 
+* LT
 
-## Afterword
+## Afterward
 
-* 
+* AF
