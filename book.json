@@ -63,8 +63,8 @@
             ]
         },
         "donate": {
-            "wechat": "https://github.com/WHYBBE/Note/blob/master/Assets/wechat_pay.jpg",
-            "alipay": "https://github.com/WHYBBE/Note/blob/master/Assets/alipay_pay.jpg",
+            "wechat": "https://raw.githubusercontent.com/WHYBBE/Note/master/Assets/wechat_pay.jpg",
+            "alipay": "https://raw.githubusercontent.com/WHYBBE/Note/master/Assets/alipay_pay.jpg",
             "title": "",
             "button": "打赏",
             "alipayText": "支付宝打赏给WHY",
