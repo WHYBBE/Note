@@ -1,5 +1,5 @@
 {
-    "title": "WHY' Learning Notebook",
+    "title": "WHY's Learning Notebook",
     "author": "Wang",
     "description": "Study With Me",
     "language": "zh-hans",
@@ -22,6 +22,7 @@
         "github",
         "github-buttons",
         "sharing-plus",
+        "donate",
         "mathjax"
     ],
     "pluginsConfig": {
@@ -31,7 +32,7 @@
         "github-buttons": {
             "buttons": [{
                 "user": "whybbe",
-                "repo": "Linux",
+                "repo": "Note",
                 "type": "star",
                 "size": "big",
                 "count": true
@@ -60,6 +61,14 @@
                 "google", "facebook", "weibo", "twitter",
                 "qq", "qzone", "linkedin", "pocket"
             ]
+        },
+        "donate": {
+            "wechat": "https://github.com/WHYBBE/Note/Assets/wechat_pay.jpg",
+            "alipay": "https://github.com/WHYBBE/Note/Assets/alipay_pay.jpg",
+            "title": "",
+            "button": "打赏",
+            "alipayText": "支付宝打赏给WHY",
+            "wechatText": "微信打赏给WHY"
         }
     }
 }
