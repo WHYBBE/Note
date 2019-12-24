@@ -13,10 +13,10 @@
 
 ### New Anecdotes of Social Talk
 
-* [TeasingPictrue](New_Anecdotes_of_Social_Talk/TeasingPicture/TeasingPicture.md)
+* [TeasingPictrue](New_Anecdotes_of_Social_Talk/TeasingPicture/README.md)
   * [List1](New_Anecdotes_of_Social_Talk/TeasingPicture/List1.md)
 
-* [TeasingQuotes](New_Anecdotes_of_Social_Talk/TeasingQuotes/TeasingQuotes.md)
+* [TeasingQuotes](New_Anecdotes_of_Social_Talk/TeasingQuotes/README.md)
   * [Quotes](New_Anecdotes_of_Social_Talk/TeasingQuotes/Quotes.md)
   * [DevQuotes](New_Anecdotes_of_Social_Talk/TeasingQuotes/DevQuotes.md)
 
