@@ -14,7 +14,7 @@
 ### New Anecdotes of Social Talk
 
 * [TeasingPictrue](New_Anecdotes_of_Social_Talk/TeasingPicture/README.md)
-  * [List1](New_Anecdotes_of_Social_Talk/TeasingPicture/List1.md)
+  * [List1](New_Anecdotes_of_Social_Talk/TeasingPictures/List1.md)
 
 * [TeasingQuotes](New_Anecdotes_of_Social_Talk/TeasingQuotes/README.md)
   * [Quotes](New_Anecdotes_of_Social_Talk/TeasingQuotes/Quotes.md)
@@ -24,6 +24,7 @@
 
 * [GTD](Efficient_Method/GTD/README.md)
     * [GTD](Efficient_Method/GTD/GTD.md)
+    * [Picture](Efficient_Method/GTD/Picture.md)
 
 ## English Learning
 * [Composition](English_Learning/Composition/README.md)

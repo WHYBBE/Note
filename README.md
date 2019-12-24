@@ -31,6 +31,7 @@
 
 * [GTD](Efficient_Method/GTD/README.md)
   * [GTD](Efficient_Method/GTD/GTD.md)
+  * [Picture](Efficient_Method/GTD/Picture.md)
 
 ### English Learning
 
