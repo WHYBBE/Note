@@ -13,7 +13,7 @@
 
 ### New Anecdotes of Social Talk
 
-* [TeasingPictrue](New_Anecdotes_of_Social_Talk/TeasingPicture/README.md)
+* [TeasingPictrue](New_Anecdotes_of_Social_Talk/TeasingPictures/README.md)
   * [List1](New_Anecdotes_of_Social_Talk/TeasingPictures/List1.md)
 
 * [TeasingQuotes](New_Anecdotes_of_Social_Talk/TeasingQuotes/README.md)
