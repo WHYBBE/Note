@@ -44,7 +44,8 @@
 * PW
 
 ## Life Thinking
-* LT
+* [Daily](Life_Thinking/Daily/README.md)
+  * [2020-1-14](Life_Thinking/Daily/夜阑卧听风吹雨，铁马冰河入梦来.md)
 
 ## Afterward
 * AF
